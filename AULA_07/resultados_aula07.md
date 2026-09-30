@@ -1,7 +1,5 @@
 # AC2 — Parte 2: Laboratório Prático de Meta-heurísticas (AULA 07)
 
-> Este arquivo reúne código, output e respostas dos 5 labs. Todos os códigos usam `np.random.seed(42)` para reprodutibilidade.
-
 ---
 
 ## LAB 01 — ACO com Busca Local (Exploration vs. Exploitation)
