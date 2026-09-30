@@ -1,8 +1,5 @@
 # AC2 — Fechamento: Otimização de Sistemas Computacionais e Resiliência de Redes (AULA 08)
 
-> Arquivo único com código, output e análise dos 3 labs. Todos os experimentos usam sementes fixas e são reproduzíveis.
-> O roteiro não traz alguns dados (modelo térmico, microsserviços, matriz D, pares críticos). As premissas adotadas estão descritas em cada lab.
-
 ---
 
 ## LAB 01 — PSO para Balanceamento Dinâmico de Carga em Datacenters
