@@ -1,6 +1,5 @@
-# Resultados — Aula 04 (lab01_aula04) — Resumo
+# Resultados — Aula 04 (lab01_aula04) 
 
-**Integrantes:** _(preencher nomes da dupla/trio)_
 **Data:** 07/10/2026
 
 ## O que é
